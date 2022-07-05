@@ -3,7 +3,7 @@ Cheat Sheets
 </h1>
 
 <h3 style="font-family: Roboto">
-🌐 Front-end Cheat Sheet 
+🌐 HTML 
 </h3>
 
 <details>
@@ -31,24 +31,20 @@ View Cheat Sheet
 <a href="./html/languageCode.md">ISO 639-1 Language Code</a>
 </li>
 
-<li>
-<a href="./css/css.md">CSS</a>
-</li>
-
-<li>
-<a href="./javaScript/javaScript.md">JavaScript</a>
-</li>
-
 </details>
 
 <h3 style="font-family: Roboto">
-✏️ CSS Frameworks
+✏️ CSS
 </h3>
 
 <details>
 <summary>
 View Cheat Sheet
 </summary>
+
+<li>
+<a href="./css/css.md">CSS</a>
+</li>
 
 <li>
 <a href="./css-frameworks/tailwind.md">Tailwind</a>
@@ -60,6 +56,25 @@ View Cheat Sheet
 
 <li>
 <a href="./css-frameworks/scss.md">SCSS</a>
+</li>
+
+</details>
+
+<h3 style="font-family: Roboto">
+🎯 JavaScript
+</h3>
+
+<details>
+<summary>
+View Cheat Sheet
+</summary>
+
+<li>
+<a href="./javaScript/javaScript.md">JavaScript</a>
+</li>
+
+<li>
+<a href="./javaScript/JSON.md">JSON</a>
 </li>
 
 </details>
