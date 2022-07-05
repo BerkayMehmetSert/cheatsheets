@@ -104,6 +104,10 @@ View Cheat Sheet
 <a href="./markdown/markdown.md">Markdown</a>
 </li>
 
+<li>
+<a href="./editors/bash.md">Bash</a>
+</li>
+
 </details>
 
 
