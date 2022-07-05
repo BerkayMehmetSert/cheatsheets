@@ -31,6 +31,14 @@ View Cheat Sheet
 <a href="./html/languageCode.md">ISO 639-1 Language Code</a>
 </li>
 
+<li>
+<a href="./css/css.md">CSS</a>
+</li>
+
+<li>
+<a href="./javaScript/javaScript.md">JavaScript</a>
+</li>
+
 </details>
 
 <h3 style="font-family: Roboto">
@@ -71,6 +79,10 @@ View Cheat Sheet
 
 <li>
 <a href="./editors/webstorm.md">Webstorm</a>
+</li>
+
+<li>
+<a href="./git/git.md">GIT</a>
 </li>
 
 </details>
