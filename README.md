@@ -13,10 +13,13 @@ View Cheat Sheet
 
 <li>
 <a href="./html/html5.md">HTML5</a>
-</li>
 
+<ul>
 <li>
 <a href="./html/meta.md">Meta Tags</a>
+</li>
+</ul>
+
 </li>
 
 <li>
@@ -75,7 +78,21 @@ View Cheat Sheet
 
 <li>
 <a href="./javaScript/javaScript.md">JavaScript</a>
+
+<ul>
+
+<li>
+<a href="./javaScript/arrays.md">JavaScript Array</a>
 </li>
+
+<li>
+<a href="./javaScript/fetch.md">JavaScript Fetch</a>
+</li>
+
+</ul>
+</li>
+
+
 
 <li>
 <a href="./javaScript/JSON.md">JSON</a>
