@@ -85,6 +85,14 @@ View Cheat Sheet
 <a href="./redux/redux.md">Redux</a>
 </li>
 
+<li>
+<a href="./javaScript/npm.md">Npm</a>
+</li>
+
+<li>
+<a href="./javaScript/yarn.md">Yarn</a>
+</li>
+
 </details>
 
 <h3 style="font-family: Roboto">
