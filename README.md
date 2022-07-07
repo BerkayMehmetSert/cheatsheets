@@ -124,6 +124,10 @@ View Cheat Sheet
 <a href="./editors/bash.md">Bash</a>
 </li>
 
+<li>
+<a href="./licenses/licenses.md">Licenses</a>
+</li>
+
 </details>
 
 
