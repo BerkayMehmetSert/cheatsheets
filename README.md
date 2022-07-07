@@ -16,6 +16,10 @@ View Cheat Sheet
 </li>
 
 <li>
+<a href="./html/meta.md">Meta Tags</a>
+</li>
+
+<li>
 <a href="./html/emmet.md">Emmet</a>
 </li>
 
@@ -75,6 +79,10 @@ View Cheat Sheet
 
 <li>
 <a href="./javaScript/JSON.md">JSON</a>
+</li>
+
+<li>
+<a href="./redux/redux.md">Redux</a>
 </li>
 
 </details>
