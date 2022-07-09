@@ -145,6 +145,10 @@ View Cheat Sheet
 <a href="./licenses/licenses.md">Licenses</a>
 </li>
 
+<li>
+<a href="./chrome-devtools/chrome-devtools.md">Chrome Devtools</a>
+</li>
+
 </details>
 
 
